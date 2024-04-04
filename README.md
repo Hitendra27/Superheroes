@@ -6,12 +6,8 @@ A modern Android app built with Jetpack Compose and Material Design 3, showcasin
 
 - **Dynamic UI Design**: Utilizes Jetpack Compose for building a dynamic and responsive user interface.
 - **Material Design 3**: Implements the latest Material Design guidelines for a sleek and visually appealing look.
+- **Google Font**: Implements Google Font Cabin for a beautiful UI.
 - **Superhero Catalog**: Browse through a vast catalog of superheroes, complete with detailed information and stunning visuals.
-- **Search Functionality**: Easily find your favorite superheroes using the search feature.
-- **Favorite Heroes**: Save your favorite superheroes for quick access.
-- **Real-time Updates**: Stay updated with real-time data on new superhero releases and updates.
-- **Smooth Animations**: Enjoy smooth animations and transitions for an immersive experience.
-- **Offline Access**: Access superhero data even without an internet connection.
 
 ## Screenshots
 
