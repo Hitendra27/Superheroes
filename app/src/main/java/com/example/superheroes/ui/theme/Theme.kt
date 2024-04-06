@@ -1,5 +1,6 @@
 package com.example.superheroes.ui.theme
 
+import Shapes
 import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
@@ -107,8 +108,8 @@ fun SuperheroesTheme(
 
    MaterialTheme(
        colorScheme = colorScheme,
-       //typography = Typography,
-       //shapes = Shapes,
+       typography = Typography,
+       shapes = Shapes,
        content = content
    )
 }
